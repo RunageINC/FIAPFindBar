@@ -22,5 +22,4 @@ data class BarModel(
     var comentarios: List<ComentarioModel>? = mutableListOf(),
     var tags: List<TagModel>? = mutableListOf(),
 
-    //No post barId no comentarioModel
     )
